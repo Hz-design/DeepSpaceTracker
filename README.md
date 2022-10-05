@@ -1,5 +1,5 @@
 # Deep Space Tracker - Productbiografie
-IoT product minimal level 2 Of a deep space tracker, making dumb objects "smart".
+IoT product minimal level 2, a deep space tracker, making dumb objects "smart".
 
 Created by Hong Zhou
 
